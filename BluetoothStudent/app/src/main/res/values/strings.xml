@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothStudent</string>
+    <string name="name_place_holder">ВВЕДИТЕ ВАШЕ ИМЯ</string>
+    <string name="warn_bluetooth">Перед использованием включите блютуз</string>
+    <string name="warn_place">Невозможно запустить поиск устройств без разрешения на доступ к геолокации, пожалуйста разрешите его</string>
+    <string name="description">Дождитесь появления возможности отметиться, возможно преподаватель еще не включил блютуз</string>
+</resources>
