@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothTeacher</string>
+    <string name="error_in_search">Ошибка начала поиска</string>
+</resources>
